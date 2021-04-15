@@ -1,0 +1,6 @@
+name: 'Owldency'
+description: 'Analysis your project to find dependencies with known vulnerabilities'
+
+runs:
+  using: 'node12'
+  main: 'dist/index.js'

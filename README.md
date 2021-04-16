@@ -1,5 +1,5 @@
 <p align="center">
-<a href="https://github.com/guilhermemarimzup/dependency-vuln-checker">
+<a href="https://github.com/ZupIT/owldency">
   <img src="./images/owl.png" width="250" />
 </a>
 
@@ -24,7 +24,7 @@ The simplest way to add Owldency in your workflow is just adding it as a step of
 
 ```yaml
 - name: Owldency
-  uses: guilhermemarimzup/owldency@v1
+  uses: ZupIT/owldency@v1
 ```
 
 <h3>
@@ -91,7 +91,7 @@ jobs:
       uses: actions/checkout@v2
 
     - name: Owldency
-      uses: guilhermemarimzup/owldency@v1
+      uses: ZupIT/owldency@v1
 ```
 
 ---
@@ -100,4 +100,4 @@ jobs:
     <img src="./images/licenses.svg" alt="Licenses icon" width="25px"/> Licenses
 </h2>
 
-[Owldency](https://github.com/guilhermemarimzup/owldency) project icons made by [Freepik](https://www.flaticon.com/authors/freepik), [Roundicons](https://www.flaticon.com/authors/roundicons), [Icongeek26](https://www.flaticon.com/authors/icongeek26) and [Darius Dan](https://www.flaticon.com/authors/darius-dan) from [Flaticon](https://www.flaticon.com/). The source code is licensed under [Apache-2.0](https://opensource.org/licenses/Apache-2.0).
+[Owldency](https://github.com/ZupIT/owldency) project icons made by [Freepik](https://www.flaticon.com/authors/freepik), [Roundicons](https://www.flaticon.com/authors/roundicons), [Icongeek26](https://www.flaticon.com/authors/icongeek26) and [Darius Dan](https://www.flaticon.com/authors/darius-dan) from [Flaticon](https://www.flaticon.com/). The source code is licensed under [Apache-2.0](https://opensource.org/licenses/Apache-2.0).

@@ -31,7 +31,7 @@
   ],
   "horusecCliFilterPath": "",
   "horusecCliHeaders": {},
-  "horusecCliHorusecApiUri": "",
+  "horusecCliHorusecApiUri": "https://api-horusec.zup.com.br",
   "horusecCliJsonOutputFilepath": "",
   "horusecCliMonitorRetryInSeconds": 15,
   "horusecCliPrintOutputType": "text",
